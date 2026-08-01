@@ -50,6 +50,17 @@
 
 <hr/>
 
+## ⏱️ Weekly Coding Time & Activity (WakaTime)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RynnStecu&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=A78BFA&text_color=C9D1D9&border_radius=10" height="200" />
+</p>
+
+<!--START_SECTION:wakatime-->
+<!--END_SECTION:wakatime-->
+
+<hr/>
+
 ## 🚀 Featured Focus & Services
 
 <table align="center" width="100%">
