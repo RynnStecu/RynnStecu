@@ -72,16 +72,16 @@
 ## 🛠️ Tech Stack & Ecosystem
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,bun,go,py,php,express,fastapi,mysql,postgres,mongodb,redis,docker,linux,git,github,vercel,postman&perline=10"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,bun,go,py,php,express,java,html,css,mysql,postgres,mongodb,redis,docker,linux,git,github,vercel,postman&perline=11"/>
 </div>
 
 <hr/>
 
-## 📊 Real-Time GitHub Analytics
+## 📊 Real-Time GitHub Analytics & Language Breakdown
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=RynnStecu&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00E5FF&icon_color=A78BFA&text_color=C9D1D9&border_radius=10"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RynnStecu&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&border_radius=10"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RynnStecu&layout=donut-vertical&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&border_radius=10"/>
 </p>
 
 <p align="center">
