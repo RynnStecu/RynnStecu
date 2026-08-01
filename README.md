@@ -20,7 +20,7 @@
     <img src="https://komarev.com/ghpvc/?username=RynnStecu&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge"/>
     <img src="https://img.shields.io/github/followers/RynnStecu?label=FOLLOWERS&style=for-the-badge&color=7C3AED&logo=github"/>
     <img src="https://img.shields.io/github/stars/RynnStecu?affiliations=OWNER&style=for-the-badge&color=FACC15&logo=apachespark"/>
-    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/RynnStecu&label=PUBLIC%20REPOS&query=%24.public_repos&style=for-the-badge&color=22D3EE&logo=git"/>
+    <img src="https://img.shields.io/badge/PUBLIC%20REPOS-25-22D3EE?style=for-the-badge&logo=git"/>
   </p>
 
 </div>
@@ -80,8 +80,8 @@
 ## 📊 Real-Time GitHub Analytics & Language Breakdown
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RynnStecu&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00E5FF&icon_color=A78BFA&text_color=C9D1D9&border_radius=10"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RynnStecu&layout=donut-vertical&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&border_radius=10"/>
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=RynnStecu&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00E5FF&icon_color=A78BFA&text_color=C9D1D9&border_radius=10"/>
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RynnStecu&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&border_radius=10"/>
 </p>
 
 <p align="center">
