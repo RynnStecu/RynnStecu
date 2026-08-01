@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://api.kyzzz.eu.cc/sitemap.xml
