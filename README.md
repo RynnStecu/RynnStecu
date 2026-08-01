@@ -100,11 +100,11 @@ const me: DeveloperProfile = {
 
 ---
 
-## 📊 Metrics & Activity
+## 📊 Metrics & Language Distribution
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RynnStecu&show_icons=true&theme=dark&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0d1117&border_color=38bdf8" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RynnStecu&layout=compact&theme=dark&title_color=38bdf8&text_color=94a3b8&bg_color=0d1117&border_color=38bdf8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RynnStecu&langs_count=10&theme=dark&title_color=38bdf8&text_color=94a3b8&bg_color=0d1117&border_color=38bdf8" alt="Top Languages Expanded" />
 </p>
 
 <p align="center">
