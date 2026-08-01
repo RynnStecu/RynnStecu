@@ -122,7 +122,9 @@ const me: DeveloperProfile = {
 <p align="center">
   <a href="https://github.com/RynnStecu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   &nbsp;
-  <a href="https://whatsapp.com/channel/0029Vb7gcbuLdQelWzrTzD3D"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://t.me/kyuugaprawan"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+  &nbsp;
+  <a href="https://whatsapp.com/channel/0029Vb7gcbuLdQelWzrTzD3D"><img src="https://img.shields.io/badge/WhatsApp_Channel-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
 <br>
