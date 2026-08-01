@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/RynnStecu"><img src="https://athars.space/uploads/d57a92e7.jpg" alt="Kyu" width="160" style="border-radius: 50%; border: 3px solid #38bdf8;"></a>
+  <a href="https://github.com/RynnStecu"><img src="https://athars.space/uploads/d57a92e7.jpg" alt="Mommy Kyu" width="160" style="border-radius: 50%; border: 3px solid #38bdf8;"></a>
   <br>
-  Kyu
+  Mommy Kyu
   <br>
 </h1>
 
@@ -27,7 +27,7 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Kyu** (`KyuuDevv`), a dedicated Software Engineer & Backend Developer. My passion lies in building resilient backend infrastructures, engineering real-time multi-device bot solutions, and exploring open-source software patterns.
+Hello! I'm **Mommy Kyu** (`Mommy KyuuDevv`), a dedicated Software Engineer & Backend Developer. My passion lies in building resilient backend infrastructures, engineering real-time multi-device bot solutions, and exploring open-source software patterns.
 
 ```ts
 interface DeveloperProfile {
@@ -40,7 +40,7 @@ interface DeveloperProfile {
 }
 
 const me: DeveloperProfile = {
-  name: "Kyu (KyuuDevv)",
+  name: "Mommy Kyu (Mommy KyuuDevv)",
   role: "Backend Architect & Bot Engineer",
   location: "Indonesia 🇮🇩",
   focusAreas: [
