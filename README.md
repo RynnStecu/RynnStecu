@@ -125,7 +125,82 @@ Environment:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RynnStecu&theme=tokyo-night&hide_border=true"/>
 
 </p>
+## 💻 Languages
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RynnStecu&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00E5FF"/>
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="180"><b><img src="https://skillicons.dev/icons?i=js" width="18"/> JavaScript</b></td>
+<td width="320">
+<progress value="42" max="100"></progress>
+</td>
+<td><b>42%</b></td>
+</tr>
+
+<tr>
+<td><b><img src="https://skillicons.dev/icons?i=ts" width="18"/> TypeScript</b></td>
+<td>
+<progress value="28" max="100"></progress>
+</td>
+<td><b>28%</b></td>
+</tr>
+
+<tr>
+<td><b><img src="https://skillicons.dev/icons?i=php" width="18"/> PHP</b></td>
+<td>
+<progress value="12" max="100"></progress>
+</td>
+<td><b>12%</b></td>
+</tr>
+
+<tr>
+<td><b><img src="https://skillicons.dev/icons?i=python" width="18"/> Python</b></td>
+<td>
+<progress value="10" max="100"></progress>
+</td>
+<td><b>10%</b></td>
+</tr>
+
+<tr>
+<td><b><img src="https://skillicons.dev/icons?i=go" width="18"/> Go</b></td>
+<td>
+<progress value="8" max="100"></progress>
+</td>
+<td><b>8%</b></td>
+</tr>
+
+</table>
+
+---
+
+## 🏆 GitHub Statistics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RynnStecu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00E5FF&icon_color=A78BFA"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=RynnStecu&theme=tokyonight&hide_border=true&background=00000000&ring=00E5FF&fire=A78BFA"/>
+
+</p>
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RynnStecu&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RynnStecu&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
 ---
 
 # 🌍 Connect
