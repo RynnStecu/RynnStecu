@@ -1,87 +1,155 @@
 <div align="center">
 
-<img src="https://athars.space/uploads/d57a92e7.jpg" width="120" height="120" style="border-radius:50%; object-fit:cover; border:3px solid #00F7FF;" />
+<img src="https://athars.space/uploads/d57a92e7.jpg" width="140" style="border-radius:50%;border:4px solid #00E5FF;" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=170&section=header&text=Kyu%20%E2%80%94%20KyuuDevv&fontSize=38&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Bot%20%26%20Web%20Developer&descAlignY=58&descSize=16&descColor=B388FF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B1220,50:111827,100:1F2937&text=Kyu%20•%20KyuuDevv&fontColor=00E5FF&fontSize=42&fontAlignY=36&animation=fadeIn&desc=Bot%20Developer%20•%20Backend%20Engineer%20•%20Open%20Source&descAlignY=58&descColor=A78BFA"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=B388FF&center=true&vCenter=true&width=560&lines=Building+with+Baileys+%26+Node.js;Termux+%E2%80%A2+VPS+%E2%80%A2+Pterodactyl;Still+Learning%2C+Still+Shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+WhatsApp+Bots+with+Baileys;Creating+Modern+Web+Applications;Backend+Engineering+%26+API+Development;Always+Learning+Something+New"/>
 
-### 🌱 *kegagalan bukan lah pilihan*
-Learning by building, breaking, fixing, and improving — one commit at a time.
+<p>
+<img src="https://komarev.com/ghpvc/?username=RynnStecu&label=Profile+Views&color=00E5FF&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/RynnStecu?label=Followers&style=for-the-badge&color=7C3AED"/>
+<img src="https://img.shields.io/github/stars/RynnStecu?affiliations=OWNER&style=for-the-badge&color=FACC15"/>
+</p>
+
+# 👋 Hello, I'm **Kyu**
+
+*"Code. Break. Learn. Improve. Repeat."*
 
 </div>
 
-<br>
+---
 
-## 🚀 About Me
+# ⚡ About Me
 
 ```yaml
-name:     Kyu (KyuuDevv)
-status:   gapunya bini, gapapa fokus ngoding
-focus:    WhatsApp/Telegram Bot Development, Web & API Engineering
-stack:    JavaScript, TypeScript, PHP, Python, Go
-runtime:  Node.js, Baileys, Telegraf
-infra:    Termux • VPS • Pterodactyl Panel
+Name      : Kyu (KyuuDevv)
+Role      : Bot & Backend Developer
+Location  : Indonesia 🇮🇩
+
+Focus:
+  - WhatsApp Automation
+  - Telegram Bots
+  - REST API Development
+  - Backend Engineering
+
+Languages:
+  - JavaScript
+  - TypeScript
+  - Go
+  - PHP
+  - Python
+
+Environment:
+  - Node.js
+  - Bun
+  - Termux
+  - VPS
+  - Pterodactyl
 ```
 
-## 🔥 What I'm Building
+---
 
-- 🤖 **WhatsApp Bots** — multi-feature Baileys bots with plugin loaders, SQLite, and canvas-based image generators
-- 💬 **Telegram Bots** — Telegraf & Go-based bots with inline keyboards and AI integrations
-- 📦 **npm Packages** — canvas-based generators for profile cards & social assets
-- 🌐 **Web Apps** —  API docs sites, and link-in-bio tools and more
+# 🚀 Current Projects
 
-<br>
+<table>
+<tr>
+<td width="50%">
 
-## 💻 Tech Stack
+### 🤖 Automation
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,php,py,go,mysql,sqlite,github,vercel" />
-</p>
+- WhatsApp Bots
+- Telegram Bots
+- AI Integration
+- Plugin Systems
 
-<div align="center">
+</td>
 
-| Languages | Backend & Bots | Database | Tools & Infra |
-|:---:|:---:|:---:|:---:|
-| JavaScript | Node.js | MySQL | GitHub |
-| TypeScript | Baileys | SQLite | Vercel |
-| PHP | Telegraf | SQL | Termux |
-| Python | Express |  | Pterodactyl |
-| Go |  |  |  |
+<td width="50%">
 
-</div>
+### 🌐 Development
 
-<br>
+- REST APIs
+- Dashboard
+- Documentation
+- Open Source Packages
 
-## 📊 GitHub Stats
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RynnStecu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=B388FF" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RynnStecu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
-</p>
+---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RynnStecu&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=B388FF&currStreakLabel=00F7FF" />
-</p>
-
-<br>
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/RynnStecu">
-    <img src="https://img.shields.io/badge/GitHub-RynnStecu-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://whatsapp.com/channel/0029Vb7gcbuLdQelWzrTzD3D">
-    <img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
+# 🛠 Tech Stack
 
 <div align="center">
 
-### ✨ Motto
-> *"Every expert was once a beginner."*
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,bun,go,php,py,express,mysql,sqlite,mongodb,redis,git,github,docker,linux,vercel&perline=9"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer" />
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RynnStecu&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=00E5FF&icon_color=A78BFA"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RynnStecu&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=00E5FF"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=RynnStecu&theme=tokyonight&hide_border=true&background=00000000&ring=00E5FF&fire=A78BFA"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RynnStecu&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📊 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RynnStecu&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌍 Connect
+
+<div align="center">
+
+<a href="https://github.com/RynnStecu">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://whatsapp.com/channel/0029Vb7gcbuLdQelWzrTzD3D">
+<img src="https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Philosophy
+
+> *"Great software isn't written in one night — it's refined through countless iterations."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1F2937,50:111827,100:0B1220"/>
+
+</div>
