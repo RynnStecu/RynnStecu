@@ -100,23 +100,19 @@ const me: DeveloperProfile = {
 
 ---
 
-## 📊 Metrics & Analytics
+## 📊 Metrics & Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RynnStecu&show_icons=true&theme=github_dark&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RynnStecu&layout=compact&theme=github_dark&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RynnStecu&show_icons=true&theme=dark&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0d1117&border_color=38bdf8" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RynnStecu&layout=compact&theme=dark&title_color=38bdf8&text_color=94a3b8&bg_color=0d1117&border_color=38bdf8" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img width="100%" src="https://streak-stats.demolab.com?user=RynnStecu&theme=dark&background=0d1117&ring=38bdf8&fire=eab308&currStreakNum=38bdf8" alt="GitHub Streak" />
 </p>
 
----
-
-## 🏆 Milestones & Achievements
-
 <p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=RynnStecu&theme=onedark&column=6&margin-w=15&margin-h=15" alt="Trophies" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RynnStecu&theme=tokyo-night&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=eab308" alt="Activity Graph" />
 </p>
 
 ---
